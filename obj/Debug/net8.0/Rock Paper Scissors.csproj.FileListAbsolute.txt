@@ -1,0 +1,14 @@
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfo.cs
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+D:\works (acunmedia)\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.exe
+D:\works (acunmedia)\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.deps.json
+D:\works (acunmedia)\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.runtimeconfig.json
+D:\works (acunmedia)\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.dll
+D:\works (acunmedia)\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.pdb
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.dll
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\refint\Rock Paper Scissors.dll
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.pdb
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.genruntimeconfig.cache
+D:\works (acunmedia)\Rock Paper Scissors\obj\Debug\net8.0\ref\Rock Paper Scissors.dll
