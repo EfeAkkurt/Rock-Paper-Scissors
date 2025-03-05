@@ -14,7 +14,6 @@ This is a simple console-based Rock Paper Scissors game where the user plays aga
 
 ## Known Issues
 
-- **Case Sensitivity**: The game is case-sensitive, meaning "rock" and "Rock" are treated differently. This can confuse users.
 - **Invalid Input Handling**: If the user enters an invalid option, the game simply says, "There is a typo or this is not an option!" This can be improved with better error handling.
 - **Redundant Code**: The code has many repetitive conditions that can be simplified for better readability and maintainability.
 
